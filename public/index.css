@@ -1,15 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
 
-/* ⭐ particles.js background container */
-#particles-js {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;              /* keeps it behind everything */
-    pointer-events: none;     /* prevents blocking clicks */
-}
 
 /* ⭐ Neon‑white theme variables */
 :root {
